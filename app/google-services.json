@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "398048932137",
+    "firebase_url": "https://rohanmachinetest.firebaseio.com",
+    "project_id": "rohanmachinetest",
+    "storage_bucket": "rohanmachinetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398048932137:android:7bc09061e6fd04bc",
+        "android_client_info": {
+          "package_name": "tk.androidtechnical.rohanmachinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398048932137-c65nlli56lm6i7apqiq0auh3p3b1kn64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBK4kJFpL-y-r3ES_DIKCN29hPtBwdz-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.arshadapp.amura_marketing_technologies.MainActivity">
+
+    <item
+        android:id="@+id/all_view"
+        android:orderInCategory="100"
+        android:title="All View"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/day_view"
+        android:orderInCategory="100"
+        android:title="Day View"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/week_view"
+        android:orderInCategory="100"
+        android:title="Week View"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/month_view"
+        android:orderInCategory="100"
+        android:title="Month View"
+        app:showAsAction="never" />
+
+</menu>
