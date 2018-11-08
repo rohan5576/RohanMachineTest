@@ -33,7 +33,7 @@ import tk.androidtechnical.rohanmachinetest.util.SharedPreference;
 import static tk.androidtechnical.rohanmachinetest.util.Constant.emailCheck;
 
 public class LoginActivity extends AppCompatActivity {
-
+//data binding used
     private static final String TAG = LoginActivity.class.getSimpleName();
     @BindView(R.id.edt_email)
     EditText edt_email;
